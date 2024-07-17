@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 # Hi 👋 I am Trần Văn Anh! 
 
+## Github Statistics
+
+![TranVanAnh1212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranVanAnh1212&theme=dracula&hide_border=false)
