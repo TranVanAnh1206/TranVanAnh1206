@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## Github Statistics
 
-<img align="right" src="![TranVanAnh1212's Stats](https://github-readme-stats.vercel.app/api?username=TranVanAnh1212&theme=dracula&show_icons=true&hide_border=false&count_private=true)">
+![TranVanAnh1212's Stats](https://github-readme-stats.vercel.app/api?username=TranVanAnh1212&theme=dracula&show_icons=true&hide_border=false&count_private=true)"
 
-<img align="right" src="![TranVanAnh1212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranVanAnh1212&theme=dracula&hide_border=false)">
+![TranVanAnh1212's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranVanAnh1212&theme=dracula&hide_border=false)"
 
-<img align="right" src="![TranVanAnh1212's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranVanAnh1212&theme=dracula&show_icons=true&hide_border=false&layout=compact)">
+![TranVanAnh1212's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranVanAnh1212&theme=dracula&show_icons=true&hide_border=false&layout=compact)"
